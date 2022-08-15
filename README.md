@@ -1,7 +1,7 @@
 Background
 In the game of Scrabble, players create words to score points, and the number of points is the sum of the point values of each letter in the word.
 
-A  &nbsp;B  &nbsp;C  &nbsp;D  &nbsp;E  &nbsp;F  &nbsp;G  &nbsp;H  &nbsp;I  &nbsp;J  &nbsp;K  &nbsp;L  &nbsp;M  &nbsp;N  &nbsp;O  &nbsp;P  &nbsp;Q  &nbsp;R  &nbsp;S  &nbsp;T  &nbsp;U  &nbsp;V  &nbsp;W  &nbsp;X  &nbsp;Y  &nbsp;Z
+A  &nbsp;B  &nbsp;C  &nbsp;D  &nbsp;E  &nbsp;F  &nbsp;G  &nbsp;H  &nbsp;I  &nbsp;J  &nbsp;K  &nbsp;L  &nbsp;M  &nbsp;N  &nbsp;O  &nbsp;P  &nbsp;Q  &nbsp;R  &nbsp;S  &nbsp;T  &nbsp;U  &nbsp;V  &nbsp;W  &nbsp;X  &nbsp;Y  &nbsp;Z</br>
 1 &nbsp;	3 &nbsp;	3 &nbsp;	2 &nbsp;	1	 &nbsp;4	 &nbsp;2 &nbsp;	4 &nbsp;	1 &nbsp;	8 &nbsp;	5 &nbsp;	1 &nbsp;	3 &nbsp;	1 &nbsp;	1 &nbsp;	3 &nbsp;	10 &nbsp;	1 &nbsp;	1 &nbsp;	1 &nbsp;	1 &nbsp;	4 &nbsp;	4 &nbsp;	8 &nbsp;	4 &nbsp;	10
 
 For example, if we wanted to score the word Code, we would note that in general Scrabble rules, the C is worth 3 points, the o is worth 1 point, the d is worth 2 points, and the e is worth 1 point. Summing these, we get that Code is worth 3 + 1 + 2 + 1 = 7 points.
